@@ -5,4 +5,4 @@
 * 4.bilangan ke tiga (c). Apabila menghasilkan nilai true, maka akan tercetak nilai (a).
 * 5.Bandingkan kembali (b) dengan (a) dan (c). Apabila bernilai true maka akan tercetak nilai (b).
 * 6.Apabila perbandingan kedua tersebut bernilai false, maka akan tercetak nilai (c). Nilai yang tercetak merupakan nilai terbesar.
-![Tugas ke - 2] ``(https://user-images.githubusercontent.com/57053160/68122115-355e3d80-ff3c-11e9-9ece-557dbeb01190.png)``
+![Tugas ke - 2] (https://user-images.githubusercontent.com/57053160/68122115-355e3d80-ff3c-11e9-9ece-557dbeb01190.png)
